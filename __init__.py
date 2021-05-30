@@ -1,1 +1,1 @@
-__all__ = ['child_demo']
+__all__ = ['child_demo', 'child_mesg']
